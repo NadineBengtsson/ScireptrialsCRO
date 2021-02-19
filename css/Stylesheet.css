@@ -494,6 +494,10 @@ strong {
     border: white;
 }
 
+.list-group-item {
+    width: fit-content;
+}
+
 #Research span {
     line-height: 2rem;
 }
