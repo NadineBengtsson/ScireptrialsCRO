@@ -495,7 +495,7 @@ strong {
 }
 
 .list-group-item {
-    width: fit-content;
+    height: fit-content;
 }
 
 #Research span {
