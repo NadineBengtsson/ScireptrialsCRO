@@ -1,7 +1,5 @@
  /* ------------------ CSS Customized - Scireptrials ------------------- */
-
 /*imported fonts Google*/
-
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Raleway&display=swap');
 
 /* GENERAL RULES OF THIS CSS*/ 
@@ -10,27 +8,23 @@
   margin: 0px;
   box-sizing: border-box;
 }
-
 ::-webkit-scrollbar {
     width: 10px;
 }
-
 ::-webkit-scrollbar-track {
   background: #e5e5e5;
 }
-
 ::-webkit-scrollbar-thumb {
     background:#46cbd5;
     border-radius: 20px;
 }
-
 ::-webkit-scrollbar-thumb:hover {
     background: #006599;
 }
-
 ::-webkit-scrollbar-button {
     color: black;
 }
+
 html {
     overflow-y: scroll;
     scroll-behavior: smooth;
@@ -966,6 +960,7 @@ button[type="submit"], [type="reset"] {
     flex-flow: row wrap;
     justify-content: space-evenly;
     align-items: flex-end;
+    min-height: none;
 }
 
 #CTM .card {
