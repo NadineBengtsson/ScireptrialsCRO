@@ -1,0 +1,12 @@
+Changes to be commited 
+
+1. Arrangement of mobile responsiveness
+2. Card layout particularly in Our Solutions 
+3. Containers layout
+4. Second language
+5. Contact us mail js. 
+6. Email us js. 
+7. Button About Us - Our service 
+8. Insights 
+9. FAQ
+10. Regulatory topics
