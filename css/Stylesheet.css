@@ -483,6 +483,7 @@ strong {
     margin-left: 5px;
     background-color: #40C0C9;
     border-radius: 10px;
+    height: 200px;
 }
 
 #stages .card-title {
@@ -495,7 +496,7 @@ strong {
 }
 
 .list-group-item {
-    height: 200px;
+    height: fit-content;
 }
 
 #Research span {
