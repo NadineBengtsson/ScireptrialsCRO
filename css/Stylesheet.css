@@ -187,7 +187,6 @@ strong {
 
 /* ----NAV BAR of the CSS------*/ 
 /* NAV BAR*/
-
 .navbar {
     display: flex;
     flex-direction: row;
@@ -477,7 +476,6 @@ strong {
     margin-left: 5px;
     background-color: #40C0C9;
     border-radius: 10px;
-    height: 200px;
 }
 
 #stages .card-title {
@@ -550,41 +548,7 @@ strong {
     font-weight: 600;
 }
 
-/*SECTION 4 - Insights
-
-#Insights {
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin-top: 10px;
-}
-
-#Insights h2{
-    padding: 20px;
-    color: #46cbd5;
-    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-    font-size: 2rem;
-}
-
-#Insights .card {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    align-self:center;
-}
-
-#Insights .card-title{
-    padding:5px;
-}
-
-#Insights .btn-1{
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-}*/
-
-/*SECTION 5 - Contact Form*/
+/*SECTION 4 - Contact Form*/
 
 #Contact {
     display: flex;
@@ -1018,30 +982,6 @@ button[type="submit"], [type="reset"] {
     flex: 0 0 45%;
 }
 
-/* ----Content of Our Approach ------
-
-#Patients {
-    display: flex;
-    margin-top: 20px;
-}
-
-#Patients .parr {
-    text-align: left;
-    display: flex;
-    flex-flow: row wrap;
-    padding: 20px;
-}
-
-#Patients .card {
-    display: flex;
-    flex-direction: row;
-}
-
-#Patients .card-text{
-    padding:5px;
-    margin-top: 10px;
-}
---*/
 
 /* ----Content of Our Company ------*/
 .Company .navbar{
@@ -1448,3 +1388,63 @@ table th {
         margin-bottom: 20px;
     }
 }
+
+
+/* ----Content of Our Approach ------
+
+#Patients {
+    display: flex;
+    margin-top: 20px;
+}
+
+#Patients .parr {
+    text-align: left;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+}
+
+#Patients .card {
+    display: flex;
+    flex-direction: row;
+}
+
+#Patients .card-text{
+    padding:5px;
+    margin-top: 10px;
+}
+--*/
+
+/*SECTION 4 - Insights
+
+#Insights {
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+#Insights h2{
+    padding: 20px;
+    color: #46cbd5;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    font-size: 2rem;
+}
+
+#Insights .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    align-self:center;
+}
+
+#Insights .card-title{
+    padding:5px;
+}
+
+#Insights .btn-1{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}*/
