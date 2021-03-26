@@ -1179,8 +1179,10 @@ table th {
 
     }
 
-    .Alliance {
-        padding: 20px;        
+    .Company {
+        padding: 20px; 
+        justify-items: center;
+        align-items: center;       
     }
 
     nav {
