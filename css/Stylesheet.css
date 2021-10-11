@@ -1007,6 +1007,7 @@ button[type="submit"], [type="reset"] {
     display: flex;
     flex-flow: column;
     margin: auto;
+    padding-bottom: 10px;
 }
 
 background {
