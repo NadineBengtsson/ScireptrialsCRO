@@ -7,7 +7,8 @@ Founded by Dr. Marcela Otero, to manage clinical trials with the objective of pr
 Scireptrials and its logo are property of Scireptrials SRL. 
 
 If you have any question, contact: infoscireptrials@gmail.com 
-- www.scireptrials.com - 
+
+www.scireptrials.com
 
 <strong>ABOUT THIS REPOSITORY</strong>
 
