@@ -4,14 +4,13 @@ const emailHelp = document.querySelector("#emailHelp")
 
 form.addEventListener("submit", (event) => {
     event.preventDefault()
-    if (email.value === " " || password.value ===" ") {
-        if (email.value === " "){
+    if (email.value === " ") {
             emailHelp.innerText = "Por favor, completar mail";
         }
     else {
         form.submit();
     }}
-});
+);
 
 $(function() {
     var header = $(".navbar");
