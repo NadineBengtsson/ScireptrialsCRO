@@ -1175,13 +1175,6 @@ table th {
 /* --- Responsiveness - Media Queries ------ */
 
 @media only screen and (min-width: 310px) and (max-width: 379px){
-    .Company h2 {
-        padding: 20px; 
-        margin: 10px;
-        border: solid black;
-        justify-items: center;
-        align-items: center;       
-    }
 
     nav {
         background-color: white;
